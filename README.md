@@ -6,7 +6,7 @@ This is the official repository for the Electroins Club Summer Project — ANNs.
 - Vihaan Sapra
 - Vidhi Chordia
 - Parnika Mittal
-Project Overview
+## Project Overview
 The aim of this project is to create an analog neural network using op-amp and capacitors and resistors.
 
 ## Project Timeline
